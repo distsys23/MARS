@@ -29,3 +29,17 @@ Workflows data with .xml format located in folder [XML_Scientific_Workflow](http
 - `workflow.py`: scientific workflows for scheduling.
 - `workflow_preprocess.py`: preprocess of workflow xml files.
 - `main.py`: main function.
+
+## Citation
+This work is accepted by 2024 IEEE 30th International Conference on Parallel and Distributed Systems (ICPADS).
+
+```bash
+@inproceedings{cheng2024mars,
+  title={MARS: Multi-Agent Deep Reinforcement Learning for Real-Time Workflow Scheduling in Hybrid Clouds with Privacy Protection},
+  author={Cheng, Long and He, Haoyang and Gu, Yan and Liu, Qingzhi and Zhao, Zhiming and Fang, Fang},
+  booktitle={2024 IEEE 30th International Conference on Parallel and Distributed Systems (ICPADS)},
+  pages={657--666},
+  year={2024},
+  organization={IEEE}
+}
+```
